@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrzControl", "CrzControl\CrzControl.csproj", "{50F71E87-143D-4750-B07F-0332408921B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmdLib", "CmdLib\CmdLib.csproj", "{043201D6-118A-4B66-B8D4-E025D4157EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketIOClient", "SocketIO\SocketIOClient.csproj", "{352C9BC1-F74C-4741-A09D-7227BC60C057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugILMerge|Any CPU = DebugILMerge|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseILMerge|Any CPU = ReleaseILMerge|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F71E87-143D-4750-B07F-0332408921B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F71E87-143D-4750-B07F-0332408921B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F71E87-143D-4750-B07F-0332408921B6}.DebugILMerge|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F71E87-143D-4750-B07F-0332408921B6}.DebugILMerge|Any CPU.Build.0 = Debug|Any CPU
+		{50F71E87-143D-4750-B07F-0332408921B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F71E87-143D-4750-B07F-0332408921B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F71E87-143D-4750-B07F-0332408921B6}.ReleaseILMerge|Any CPU.ActiveCfg = Release|Any CPU
+		{50F71E87-143D-4750-B07F-0332408921B6}.ReleaseILMerge|Any CPU.Build.0 = Release|Any CPU
+		{043201D6-118A-4B66-B8D4-E025D4157EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043201D6-118A-4B66-B8D4-E025D4157EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043201D6-118A-4B66-B8D4-E025D4157EBF}.DebugILMerge|Any CPU.ActiveCfg = Debug|Any CPU
+		{043201D6-118A-4B66-B8D4-E025D4157EBF}.DebugILMerge|Any CPU.Build.0 = Debug|Any CPU
+		{043201D6-118A-4B66-B8D4-E025D4157EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043201D6-118A-4B66-B8D4-E025D4157EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043201D6-118A-4B66-B8D4-E025D4157EBF}.ReleaseILMerge|Any CPU.ActiveCfg = Release|Any CPU
+		{043201D6-118A-4B66-B8D4-E025D4157EBF}.ReleaseILMerge|Any CPU.Build.0 = Release|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.DebugILMerge|Any CPU.ActiveCfg = DebugILMerge|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.DebugILMerge|Any CPU.Build.0 = DebugILMerge|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.ReleaseILMerge|Any CPU.ActiveCfg = ReleaseILMerge|Any CPU
+		{352C9BC1-F74C-4741-A09D-7227BC60C057}.ReleaseILMerge|Any CPU.Build.0 = ReleaseILMerge|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
