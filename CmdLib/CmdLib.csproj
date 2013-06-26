@@ -47,10 +47,11 @@
   <ItemGroup>
     <Compile Include="CmdMsg.cs" />
     <Compile Include="Command.cs" />
+    <Compile Include="Brightness.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="PowerPoint.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ClassDiagram1.cd" />
+    <Compile Include="Volume.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

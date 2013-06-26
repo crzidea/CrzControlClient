@@ -7,7 +7,7 @@ namespace CrzControl
     class CrzClient
     {
         Client socket;
-        string serverUrl = "http://localhost/";
+        string serverUrl = "http://lx-pc/";
         string user;
         string pass;
 
